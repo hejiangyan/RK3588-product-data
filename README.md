@@ -6,7 +6,7 @@ RK3588 specifications are pretty impressive, and the processor will be found in 
 ![](imgs/img1.png?raw=true)
 
 # H-3588 Development Board 
-- [ H-3588-development-board.pdf](./RK3588_Documents/H-3588-development-board.pdf.pdf?raw=true)
+- [ H-3588-development-board.pdf](./RK3588_Documents/H-3588-development-board.pdf?raw=true)
 ![](imgs/main_github.jpeg)
 
 # RK3588 Specifications(Addtional details)
