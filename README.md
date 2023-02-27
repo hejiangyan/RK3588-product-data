@@ -7,7 +7,11 @@ RK3588 specifications are pretty impressive, and the processor will be found in 
 
 # H-3588 Development Board 
 - [ H-3588-development-board.pdf](./RK3588_Documents/H-3588-development-board.pdf?raw=true)
-![](imgs/main_github.jpeg)
+![H-3588-development-board](imgs/h_3588.png)
+
+# HE-3588 Development Board 
+- [ HE-3588-development-board.pdf](./RK3588_Documents/HE-3588-development-board.pdf?raw=true)
+![HE-3588-development-board](imgs/he_3588.png)
 
 # RK3588 Specifications(Addtional details)
 - CPU – 4x Cortex-A76 @ up to 2.4/2.6 GHz and 4x Cortex-A55 cores @ 1.8 GHz in dynamIQ configuration
