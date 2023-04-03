@@ -4,6 +4,9 @@ This repository is RK3588 Development Board Documents
 RK3588 specifications are pretty impressive, and the processor will be found in Arm computers, smart displays, edge computing & AIoT solutions, Arm servers, high-performance tablets, network video recorders, virtual reality headsets, and applications AIoT requiring multiple cameras and displays.
 
 ![](imgs/img1.png?raw=true)
+# F-3588 1U Server 
+- [ F-3588-1U-Server.pdf](./RK3588_Documents/F-3588-1U-Server.pdf?raw=true)
+![F-3588-1U-Server](imgs/F-3588.jpg)
 
 # H-3588 Development Board 
 - [ H-3588-development-board.pdf](./RK3588_Documents/H-3588-development-board.pdf?raw=true)
@@ -11,7 +14,7 @@ RK3588 specifications are pretty impressive, and the processor will be found in 
 
 # HE-3588 Development Board 
 - [ HE-3588-development-board.pdf](./RK3588_Documents/HE-3588-development-board.pdf?raw=true)
-![HE-3588-development-board](imgs/he_3588.png)
+![HE-3588-development-board](imgs/he-3588.jpeg)
 
 # RK3588 Specifications(Addtional details)
 - CPU – 4x Cortex-A76 @ up to 2.4/2.6 GHz and 4x Cortex-A55 cores @ 1.8 GHz in dynamIQ configuration
