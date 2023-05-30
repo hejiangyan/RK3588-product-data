@@ -66,8 +66,6 @@ The Durian Pi HYY-D1 is a single board computer designed by HYY company based on
 - Manufacturing process – 8nm LP
 
 # Contacts
-- Website: www.we-signage.com
-- https://we-signage.en.made-in-china.com/
 - E-mail: hejiangyan@hotmail.com
 - Wechat: + 86 18672559094
 - Skype: hejiangyan_1
