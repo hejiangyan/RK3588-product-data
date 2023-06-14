@@ -16,9 +16,15 @@ RK3588 specifications are pretty impressive, and the processor will be found in 
 - [ HE-3588-development-board.pdf](./RK3588_Documents/HE-3588-development-board.pdf?raw=true)
 ![HE-3588-development-board](imgs/he-3588.jpeg)
 
-# [New Development Board](https://github.com/hejiangyan/Durian-Pi)
+# Durian Pi
 ![durianpi-logo](imgs/durian/DurianPi.png)
 
+# [Durian Pi HYY-P1](https://github.com/industrialtablet/Durian-Pi)
+The DurianPi HYY-P1 adopts the Rockchip RK3588S new generation eight core 64 bit processor, which can be equipped with up to 32GB of large memory; Support 8K video encoding and decoding; Support NVMe SSD hard disk expansion; Support multiple operating systems; It can be applied to edge computing, artificial intelligence, cloud computing, virtual/augmented reality and other fields. RK3588S is a new generation flagship AIoT chip of Rockchip, which adopts 8nm LP process; Equipped with an 8-core 64 bit CPU, with a main frequency of up to 2.4GHz; Integrated ARM Mali-G610 MP4 quad core GPU, built-in AI accelerator NPU, capable of providing 6Tops of computing power, supporting mainstream deep learning frameworks; The powerful RK3588S can bring more optimized performance to various AI application scenarios. The performance far exceeds that of raspberry pies.
+![durianpi-p1-1](imgs/durian/durian_pi_p1_1.png)
+![durianpi-p1-2](imgs/durian/durian_pi_p1_2.png)
+
+# [Durian Pi HYY-D1](https://github.com/hejiangyan/Durian-Pi)
 The Durian Pi HYY-D1 is a single board computer designed by HYY company based on the Amlogic S905X3 chip. It adopts a 12nm process, four 64 bit ARM A55 architecture CPUs, integrates G31 GPU, supports 8K encoding and decoding, and supports multiple systems such as Linux and Android. The specifications and performance of HYY-D1 can be completely comparable to Odroid C4 and Raspberry PI 4. In the current global shortage of Raspberry PI, BPI-M5 is a very good substitute. Moreover, the supply of HYY-D1 is relatively stable, which is an advantage for the project.
 ![durianpi-d1](imgs/durian/durian_pi_d1_1.png)
 
