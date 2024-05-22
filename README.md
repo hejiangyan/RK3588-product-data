@@ -4,9 +4,17 @@ This repository is RK3588 Development Board Documents
 RK3588 specifications are pretty impressive, and the processor will be found in Arm computers, smart displays, edge computing & AIoT solutions, Arm servers, high-performance tablets, network video recorders, virtual reality headsets, and applications AIoT requiring multiple cameras and displays.
 
 ![](imgs/img1.png?raw=true)
+# 3588-NAS 
+- [3588-NAS.pdf](./RK3588_Documents/3588-NAS.pdf?raw=true)
+![3588-NAS](imgs/nas/nas-3588.png)
 # F-3588 1U Server 
 - [ F-3588-1U-Server.pdf](./RK3588_Documents/F-3588-1U-Server.pdf?raw=true)
-![F-3588-1U-Server](imgs/F-3588.jpg)
+![NAS-3588-A](imgs/nas/N-3588-1.png)
+![NAS-3588-B](imgs/nas/N-3588-2.png)
+
+# NAS-3588 Development Board 
+- [3588-NAS.pdf](./RK3588_Documents/3588-NAS.pdf?raw=true)
+![H-3588-development-board](imgs/h_3588.png)
 
 # H-3588 Development Board 
 - [ H-3588-development-board.pdf](./RK3588_Documents/H-3588-development-board.pdf?raw=true)
