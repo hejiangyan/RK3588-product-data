@@ -14,8 +14,8 @@ RK3588 specifications are pretty impressive, and the processor will be found in 
 
 # NAS-3588 Development Board 
 - [3588-NAS.pdf](./RK3588_Documents/3588-NAS.pdf?raw=true)
-![NAS-3588-A](imgs/nas/N-3588-1.png)
-![NAS-3588-B](imgs/nas/N-3588-2.png)
+![NAS-3588-A](imgs/nas/N-3588-1.jpg)
+![NAS-3588-B](imgs/nas/N-3588-2.jpg)
 
 # H-3588 Development Board 
 - [ H-3588-development-board.pdf](./RK3588_Documents/H-3588-development-board.pdf?raw=true)
